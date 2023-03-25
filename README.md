@@ -1,4 +1,4 @@
-# OPSEC-SERVICE
+# OPSEC SERVICE
 
 Сustomization of hidden COBALT STRIKE with individual requirements for TEAMS to INDICIDUAL PENTESTERS [for Windows and for Linux beacon]
 
